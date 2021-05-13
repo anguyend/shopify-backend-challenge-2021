@@ -1,7 +1,3 @@
-[![Forks][forks-shield]][https://github.com/anguyend/shopify-backend-challenge-2021/network/members]
-[![Stargazers][stars-shield]][https://github.com/anguyend/shopify-backend-challenge-2021/stargazers]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/anguyend/]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
