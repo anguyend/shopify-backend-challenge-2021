@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Shopify 2021 Backend Developer Challenge</h3>
+  <h2 align="center">Shopify 2021 Backend Developer Challenge</h2>
 
   <p align="center">
     Image Repository
