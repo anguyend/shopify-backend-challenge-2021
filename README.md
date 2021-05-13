@@ -76,11 +76,6 @@ Download and install package manager
    ```sh
    git clone https://github.com/anguyend/shopify-backend-challenge-2021.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install java
-   npm install bootstrap
-   ```
 
 <!-- USAGE EXAMPLES -->
 
