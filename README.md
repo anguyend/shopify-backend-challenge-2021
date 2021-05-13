@@ -1,30 +1,6 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Forks][forks-shield]][https://github.com/anguyend/shopify-backend-challenge-2021/network/members]
+[![Stargazers][stars-shield]][https://github.com/anguyend/shopify-backend-challenge-2021/stargazers]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/anguyend/]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,11 +41,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is an online photo store web application where users can view and purchase photos.
 
 ### Built With
 
@@ -78,16 +50,14 @@ Here's a blank template to get started:
 - [Bootstrap v4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 Generate a spring boot project using Spring Initializer
+
 - [Spring Initilizer](https://start.spring.io/)
-- Gradle Project
-- Java 11
-- Spring Boot 2.4.5
-- Dependencies
-  * Spring Web
-  * ThymeLeaf
-
-
-
+  - Gradle Project
+  - Java 11
+  - Spring Boot 2.4.5
+    - Dependencies
+      - Spring Web
+      - ThymeLeaf
 
 <!-- GETTING STARTED -->
 
@@ -119,7 +89,8 @@ Download and install package manager
 <!-- USAGE EXAMPLES -->
 
 ## Usage
- Additional project screenshots.
+
+Additional project screenshots.
 
 <!-- ACKNOWLEDGEMENTS -->
 
